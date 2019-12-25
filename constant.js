@@ -1,5 +1,5 @@
-const START_TIME = '10:00';
-const END_TIME = '17:00';
+const START_TIME = '00:00';
+const END_TIME = '23:59';
 const DURATION = 30;
 const JWT_KEY = 'firestore-demo';
 const FIRESTORE_AUTH_JSON = '';
